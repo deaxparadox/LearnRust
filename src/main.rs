@@ -1,6 +1,9 @@
 pub mod Generics; 
 
+
 fn main() {
-    let value = Generics::Struct::Struct::f('b', 1, 2);
-    println!("{}", value);
+    // let value = Generics::Struct::Struct::f('b', 1, 2);
+    // println!("{}", value);
+
+    Generics::Enum::Enum::ExceptionNullValues();
 }
