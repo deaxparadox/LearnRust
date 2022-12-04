@@ -55,3 +55,4 @@ This program is valid, event if it does nothing.
 
 
 Generic struct [>>>](https://github.com/deaxparadox/LearnRust/blob/main/src/Generics/Struct/Struct.md)
+Generic enum [>>>](https://github.com/deaxparadox/LearnRust/blob/main/src/Generics/Enum/Enum.md)
