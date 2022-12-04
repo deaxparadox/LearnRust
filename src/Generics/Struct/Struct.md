@@ -43,3 +43,6 @@ Also for structs the type parameter concretizations can be made explicit:
         let _se = SE::<u16, f32> ('a', 34, 782, 0.02);
     }
 ```
+
+
+Generic enum [>>>](https://github.com/deaxparadox/LearnRust/blob/main/src/Generics/Enum/Enum.md)

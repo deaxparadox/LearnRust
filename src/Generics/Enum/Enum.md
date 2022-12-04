@@ -15,3 +15,5 @@ In Rust, enums also be generic.
         _res = Result1::Failure(0u16, 'd');   
     }
 ```
+
+Generic struct [>>>](https://github.com/deaxparadox/LearnRust/blob/main/src/Generics/Struct/Struct.md)
