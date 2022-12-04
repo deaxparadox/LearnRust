@@ -17,4 +17,5 @@ In Rust, enums also be generic.
 ```
 
 Generic struct [>>>](https://github.com/deaxparadox/LearnRust/blob/main/src/Generics/Generics.md)
+
 Generic struct [>>>](https://github.com/deaxparadox/LearnRust/blob/main/src/Generics/Struct/Struct.md)

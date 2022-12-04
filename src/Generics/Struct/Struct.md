@@ -45,4 +45,5 @@ Also for structs the type parameter concretizations can be made explicit:
 ```
 
 Generic struct [>>>](https://github.com/deaxparadox/LearnRust/blob/main/src/Generics/Generics.md)
+
 Generic enum [>>>](https://github.com/deaxparadox/LearnRust/blob/main/src/Generics/Enum/Enum.md)
