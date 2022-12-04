@@ -36,4 +36,4 @@ The __T__ word enclosed in  angular brackets. This symbol is a type parameter of
 
 While the __ch__ argument is of __char__ type, the __num1__ and __num2__ arguments, as well as the function returned value are of the __T__ generic type. When such a function will be used, it will be required to replace such __T__ parameter with a concrete type, so obtaining a concrete function.
 
-__f::<i16>__ function, that is the concrete function obtained by replacing the __T__ parameter with the __i16__ type. Similarly, __f::<f64>__ function with __f64__ type.
+__f::\<i16\>__ function, that is the concrete function obtained by replacing the __T__ parameter with the __i16__ type. Similarly, __f::\<f64\>__ function with __f64__ type.
