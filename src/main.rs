@@ -7,6 +7,7 @@ fn main() {
     // println!("{}", value);
 
     // Generics::Enum::Enum::show_divide2();
-    Closures::Closures::Closures();
+    // Closures::Closures::Closures();
+    Closures::Closures::Examples()
 
 }
