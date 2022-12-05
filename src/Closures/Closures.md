@@ -1,6 +1,6 @@
 ## Closures
 
-Closure and inline anonymous function
+Closure are inline anonymous function, such as **lambda** in python.
 
 ```rs
 pub fn Closures() {

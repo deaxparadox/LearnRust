@@ -1,5 +1,6 @@
 pub mod Generics; 
 pub mod Closures;
+pub mod Traits;
 
 
 fn main() {
@@ -8,6 +9,7 @@ fn main() {
 
     // Generics::Enum::Enum::show_divide2();
     // Closures::Closures::Closures();
-    Closures::Closures::Examples()
+    // Closures::Closures::Examples()
+    Traits::Traits::Swap();
 
 }
