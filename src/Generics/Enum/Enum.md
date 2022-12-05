@@ -46,6 +46,35 @@ Here is the Rust solution:
     }
 ```
 
+Such generic type is defined by the Rust standard library as this:
+
+```rs
+enum Option<T> {
+    Some(T),
+    None,
+}
+```
+
+This enums means: "This ia an optional value of **T** type. It has the option of being a **T** and the option os being nothing. It can be something or nothing. If it is something, it is a **T**".
+
+
+## Error Handling 
+
+The Rust standard library also defines a generic enum to handle the case in which a function cannot return a value of the expected type.
+
+
+The definition of this generic enum in the standard library is:
+
+```rs
+enum Result<T, E> {
+    Ok(T),
+    Error(E),
+}
+```
+
+## Enum standard Utility Functions 
+
+The standard library contains some utility functions to ease the decoding of an **Option** or a **Result** value.
 
 
 Generic [>>>](https://github.com/deaxparadox/LearnRust/blob/main/src/Generics/Generics.md)
